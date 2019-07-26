@@ -10,5 +10,6 @@ public class showProperties {
 		System.getProperties().list(System.out);
 		System.out.println(System.getProperty("user1.name"));
 		System.out.println(System.getProperty("java.library.path"));
+		System.out.println("haha");
 	}
 }
