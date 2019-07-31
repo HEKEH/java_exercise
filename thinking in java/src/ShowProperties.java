@@ -9,5 +9,6 @@ public class ShowProperties {
 		System.out.println(System.getProperty("1user.name"));
 		System.out.println(System.getProperty("java.library.path"));
 		System.out.println("master");
+		System.out.println("branch");
 	}
 }
